@@ -1,0 +1,28 @@
+{
+  "name": "numeronym-shortener",
+  "version": "1.0.0",
+  "description": "Shorten numeronyms (n7ms)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate-types": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyum/numeronym-shortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyum/numeronym-shortener/issues"
+  },
+  "homepage": "https://github.com/boyum/numeronym-shortener#readme",
+  "devDependencies": {
+    "@tsconfig/strictest": "^1.0.1",
+    "prettier": "^2.6.2",
+    "prettier-config": "github:boyum/prettier-config",
+    "typescript": "^4.6.3"
+  },
+  "prettier": "prettier-config"
+}
