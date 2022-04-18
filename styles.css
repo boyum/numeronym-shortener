@@ -52,7 +52,7 @@ input {
   font-size: 2rem;
   padding: 1rem 1.5rem;
   text-align: center;
-  transition: opacity .15s ease-in-out;
+  transition: opacity 0.15s ease-in-out;
 }
 .result:empty {
   height: 4.37rem;
